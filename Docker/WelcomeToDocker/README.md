@@ -14,6 +14,12 @@
 
 ![Localhost](../img/top.jpg)
 
+## Обновить источники приложений
+
+![Localhost](../img/update.jpg)
+
+![Localhost](../img/fastadd.jpg)
+
 ## Запустить приложение
 
 ![Fastfetch](../img/fastfetch.jpg)
