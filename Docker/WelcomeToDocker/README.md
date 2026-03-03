@@ -1,12 +1,18 @@
 # Welcome to Docker
 
-## Загрузить образ и запустить контейнера
+## Загрузить образ и запустить контейнер
 
 ![Launch docker](../img/launch.jpg)
 
 ![Localhost](../img/congrats.jpg)
 
-![Localhost](../img/congrats.jpg)
+## Показать ин-фу по ОС
+
+![Localhost](../img/uname.png)
+
+## Диспетчер ресурсов
+
+![Localhost](../img/top.jpg)
 
 ## Запустить приложение
 
