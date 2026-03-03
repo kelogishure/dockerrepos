@@ -1,10 +1,19 @@
 # Welcome to Docker
 
-## Проверка порта `8080`
+## Загрузить образ и запустить контейнер
 
-![Port 8088 Check](../img/Port%208088%20Check.png)
+![Launch docker](../img/launch.jpg)
 
-## Загрузка образа и запуск контейнера
+![Localhost](../img/congrats.jpg)
 
-![Docker Container Launch](../img/Docker%20Container%20Launch-1.png)
-![Docker Container Launch](../img/Docker%20Container%20Launch-2.png)
+## Показать ин-фу по ОС
+
+![Localhost](../img/uname.png)
+
+## Диспетчер ресурсов
+
+![Localhost](../img/top.jpg)
+
+## Запустить приложение
+
+![Fastfetch](../img/fastfetch.jpg)
