@@ -1,10 +1,21 @@
 # Welcome to Docker
 
-## Проверка порта `8080`
+## Проверка версии
 
-![Port 8088 Check](../img/Port%208088%20Check.png)
+![Version check](../img/version.jpg)
 
-## Загрузка образа и запуск контейнера
+## Проверка контейнеров
 
-![Docker Container Launch](../img/Docker%20Container%20Launch-1.png)
-![Docker Container Launch](../img/Docker%20Container%20Launch-2.png)
+![Containers check](../img/containers.png)
+
+## Запуск докера
+
+![Launch docker](../img/launch.jpg)
+
+## Локалхост
+
+![Localhost](../img/congrats.jpg)
+
+## Фастфетч
+
+![Fastfetch](../img/fastfetch.jpg)
