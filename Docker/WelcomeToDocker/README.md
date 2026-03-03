@@ -1,21 +1,13 @@
 # Welcome to Docker
 
-## Проверка версии
-
-![Version check](../img/version.jpg)
-
-## Проверка контейнеров
-
-![Containers check](../img/containers.png)
-
-## Запуск докера
+## Загрузить образ и запустить контейнера
 
 ![Launch docker](../img/launch.jpg)
 
-## Локалхост
+![Localhost](../img/congrats.jpg)
 
 ![Localhost](../img/congrats.jpg)
 
-## Фастфетч
+## Запустить приложение
 
 ![Fastfetch](../img/fastfetch.jpg)
